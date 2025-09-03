@@ -7,8 +7,6 @@ Welcome to my **LeetCode playground**! This repository is packed with **Swift so
 ## 📚 What’s Inside
 
 - ✅ **Problems solved:** From Easy 🟢 to Hard 🔴  
-- 💡 **Step-by-step explanations** to understand the logic behind each solution  
-- 🏗 **Swift code examples** with clean, readable style  
 - 🎯 **Focused on algorithms and data structures** to level up your coding skills  
 - 📝 **Helpful comments** in code to guide your learning
 
