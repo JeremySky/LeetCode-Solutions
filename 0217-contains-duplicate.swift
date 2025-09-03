@@ -3,6 +3,7 @@ import Foundation
 class Solution {
     
     /// Checks whether the given array contains any duplicate values.
+    /// 
     /// - Parameter nums: An array of integers to check for duplicates.
     /// - Returns: **true** if  any value appears at least twice in the array; **false** if all elements are unique.
     func containsDuplicate(_ nums: [Int]) -> Bool {
