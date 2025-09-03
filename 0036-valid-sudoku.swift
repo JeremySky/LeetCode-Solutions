@@ -1,6 +1,13 @@
 import Foundation
 
 class Solution {
+    
+    /// Checks whether a given sudoku board does not contain any duplicate digits in any row, column, or 3x3 subsquare.
+    ///
+    /// Does **not** guarantee the puzzle is is solvable.
+    ///
+    /// - Parameter board: A 9x9 grid of characters, where each entry is '1-9' for a digit  or '.' for an empty cell.
+    /// - Returns: **true** if valid (no duplicates found in row, column, and subsquare), otherwise **false**.
     func isValidSudoku(_ board: [[Character]]) -> Bool {
         
         var rows = [Set<Character>](repeating: [], count: 9)
